@@ -148,7 +148,7 @@ Distributed under the MIT License. See LICENSE for more information.
 📞 Contact
 Your Name - Your Email Address
 
-Project Link: https://github.com/grnt7/my-expo-Uber-Clone)
+Project Link: https://github.com/grnt7/FilmBuff-MovieStreaming)
 
 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
 
